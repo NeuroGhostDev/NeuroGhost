@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&height=80&lines=🕷️+NEUROGHOST+LABORATORY;Architecting+Digital+Consciousness;Where+Code+Weaves+Reality" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI%20Research%20%26%20Autonomous%20Systems&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
-</p>
+
 
 <div align="center">
 
@@ -15,12 +13,7 @@
   <br/>
   <br/>
 
-  <a href="https://github.com/NeuroGhostDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=NeuroGhostDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" height="160" alt="stats" />
-  </a>
-  <a href="https://github.com/NeuroGhostDev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuroGhostDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="160" alt="langs" />
-  </a>
+
 
 </div>
 
